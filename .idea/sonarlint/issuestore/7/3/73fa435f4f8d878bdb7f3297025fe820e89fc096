@@ -1,0 +1,6 @@
+
+i	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÌèš8Ûƒ£ÂÈ1
+ƒ
+java:S1450"aRemove the "editAuthorEditText" field and declare it as a local variable in the relevant methods.(®˜Õ×ùÿÿÿÿ8úƒ£ÂÈ1
+‚
+java:S1450"`Remove the "editTitleEditText" field and declare it as a local variable in the relevant methods.(Á³‡‹ûÿÿÿÿ8ûƒ£ÂÈ1
